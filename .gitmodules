@@ -1,0 +1,3 @@
+[submodule "azure-qr-code"]
+	path = azure-qr-code
+	url = https://github.com/rishabkumar7/azure-qr-code
